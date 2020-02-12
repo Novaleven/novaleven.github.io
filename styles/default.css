@@ -1,0 +1,44 @@
+
+body 
+{
+	color: midnightblue ;
+	background-color : lightblue;
+	font-family: courier;
+	border: 1rem solid;
+	
+	
+}
+
+figure
+{  
+
+	text-align: center;
+
+}
+	
+figcaption
+{
+	
+	font-style: italic;
+	
+}
+
+
+footer
+{
+ 
+ 
+   
+  text-align: center;
+ }
+  
+ h1
+ {
+	
+	 text-align: center;
+	
+ }
+ 
+
+
+
